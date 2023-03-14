@@ -65,3 +65,11 @@
 ![green](grogu.jpg)
 
 this is just grogu
+
+* git log --graph :
+
+Графически показывает движение логов по веткам
+
+* git log --oneline --all --graph
+
+Отображает все логи в коротком виде и движение по веткам графически
